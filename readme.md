@@ -132,10 +132,10 @@ The multiplayer version requires running both the server and client applications
    java TicTacToeClient
    ```
 
-3. **Enter Server Details**
+3. **Server Details**
 
-   - **Host IP:** Enter the IP address of the machine where the server is running.
-   - **Port Number:** Enter the port number (default: 12345) if different.
+   - **Host IP:** By default it is 127.0.0.1
+   - **Port Number:** By default it is PORT 7000
 
 4. **Gameplay Instructions**
 
@@ -199,4 +199,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 - **Java Swing:** For providing the framework to build the graphical user interface.
 - **Socket Programming:** Leveraged for establishing network communication in the multiplayer mode.
 - **Open-Source Community:** For inspiring and guiding through various resources and tutorials.
-```
