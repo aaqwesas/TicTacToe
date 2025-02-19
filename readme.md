@@ -47,7 +47,7 @@ A versatile Java implementation of the classic TicTacToe game, featuring both si
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/TicTacToeJava.git
+   https://github.com/aaqwesas/TicTacToe.git
    ```
 
 2. **Navigate to the Project Directory**
